@@ -116,4 +116,3 @@ In this example response, the C-Chain’s health check is failing.
     "id": 1
 }
 ```
-

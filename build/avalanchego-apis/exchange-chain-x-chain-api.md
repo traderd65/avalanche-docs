@@ -1782,4 +1782,3 @@ Calling **NewSet** or **NewBloom** resets the filter, and must be followed with 
 ```cpp
 2021/05/11 15:59:35 {"txID":"22HWKHrREyXyAiDnVmGp3TQQ79tHSSVxA9h26VfDEzoxvwveyk"}
 ```
-
